@@ -3,3 +3,5 @@
 ! Description: List composed of several filters and simplified specifically to be better compatible with DNS-level ad blocking
 ! Homepage: https://github.com/mauro-midolo/AdGuard-DNS-Blocklist/
 !
+
+||okx.com^
