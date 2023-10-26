@@ -1,6 +1,6 @@
 # Malicious DNS Blocklist for AdGuard Home
 
-Welcome to the official repository of the Malicious DNS Blocklist for AdGuard Home. This list is crafted to safeguard your network from harmful websites, trackers, and other online threats.
+Welcome to the repository of my custom DNS blocklist for use with AdGuard Home. This list has been curated to filter and block specific unwanted domains, providing an additional layer of security and privacy to your network.
 
 ## Instructions:
 1. **Copy the list link**
