@@ -4,7 +4,7 @@ Welcome to the official repository of the Malicious DNS Blocklist for AdGuard Ho
 
 ## Instructions:
 1. **Copy the list link**
-   Copy the link of the DNS blocklist: [insert link here]
+   Copy the link of the DNS blocklist: [link](https://mauro-midolo.github.io/AdGuard-DNS-Blocklist/assets/filter_1.txt)
 
 2. **Open AdGuard Home**
    Access your AdGuard Home interface.
