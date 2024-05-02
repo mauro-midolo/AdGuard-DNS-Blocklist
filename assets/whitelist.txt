@@ -1,2 +1,2 @@
-||doubleclick.net^
-||adform.net^
+#||doubleclick.net^
+#||adform.net^
