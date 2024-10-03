@@ -3,3 +3,4 @@
 ||thepiratebay.org^
 ||z-lib.id^
 ||etahub.com^
+||giraffic.com^
