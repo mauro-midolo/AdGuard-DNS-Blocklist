@@ -4,3 +4,4 @@
 ||z-lib.id^
 ||etahub.com^
 ||giraffic.com^
+||doubleclick.net^
