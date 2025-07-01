@@ -5,3 +5,4 @@
 ||etahub.com^
 ||giraffic.com^
 ||doubleclick.net^
+||azure.com^
