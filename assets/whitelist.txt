@@ -6,3 +6,5 @@
 ||giraffic.com^
 ||doubleclick.net^
 ||azure.com^
+||rt.services.visualstudio.com^
+||browser.events.data.microsoft.com^
