@@ -9,3 +9,4 @@
 ||rt.services.visualstudio.com^
 ||browser.events.data.microsoft.com^
 ||teams.events.data.microsoft.com^
+||data.microsoft.com^
