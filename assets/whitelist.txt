@@ -8,3 +8,4 @@
 ||azure.com^
 ||rt.services.visualstudio.com^
 ||data.microsoft.com^
+||my.canva.site^
