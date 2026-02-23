@@ -10,3 +10,4 @@
 ||data.microsoft.com^
 ||my.canva.site^
 ||tado.com^
+||polymarket.com^
