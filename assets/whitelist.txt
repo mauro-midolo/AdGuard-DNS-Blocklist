@@ -11,3 +11,7 @@
 ||tado.com^
 ||thepiratebay.org^
 ||z-lib.id^
+||fcm.googleapis.com^
+||mtalk.google.com^
+||firebaseinstallations.googleapis.com^
+||android.clients.google.com^
